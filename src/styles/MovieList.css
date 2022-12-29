@@ -1,0 +1,14 @@
+.ban{
+    display: flex;
+    flex-direction:row-reverse;
+    background-color: azure;
+}
+
+
+
+
+.rang{
+    width: 200px;
+    font-size: 10px;
+    text-align: center;
+}
